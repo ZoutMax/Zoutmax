@@ -40,7 +40,7 @@ I'm currently the sole system administrator at an international trading firm, an
 `Microsoft 365` `Azure (hybrid + greenfield)` `Intune` `VMware` `Proxmox` `NetApp` `Linux`
 
 ### 🧩 Fun
-⚙️ <a href="https://zoutmax.github.io/fifine-control-deck-linux/">fifine-control-deck-linux</a>
+⚙️ <a href="https://zoutmax.github.io/fifine-control-deck-linux/">fifine-control-deck-linux</a> 📦
 
 
 ### 📫 Get in touch
