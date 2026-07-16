@@ -1,5 +1,3 @@
-# Zoutmax
-Files Storage
 <p align="center">
   <img src="houtmann-tech-logo.jpg" alt="Houtmann-Tech" width="280">
 </p>
