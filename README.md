@@ -41,7 +41,8 @@ I'm currently the sole system administrator at an international trading firm, an
 
 ### 📫 Get in touch
 
-For partnerships, press, or brand questions — [info@houtmann-tech.nl](mailto:info@houtmann-tech.nl) or [+31 6 50 95 93 70](tel:+31650959370).
+For partnerships, press, or brand questions — [info@houtmann-tech.nl](mailto:info@houtmann-tech.nl)
+
 For IT engagements specifically, see [Houtmann-IT](https://houtmann-it.nl).
 
 ---
