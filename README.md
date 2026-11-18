@@ -18,22 +18,20 @@
 
 ---
 
-### 👨‍💻 About me
+## 👨‍💻 About me
 
-I'm currently the sole system administrator at an international trading firm, and I run **Houtmann-Tech**, my independent technology venture studio : infrastructure services and legal-tech products under one roof.
+Systems administrator with 25+ years in IT infrastructure.
+In my own time I build personal technology projects under **Houtmann-Tech**.
+These projects are currently paused.
 
-- 🔧 Independent IT work through **Houtmann-IT**
-- ⚖️ Building **JuriPredict**, an AI-driven legal-tech product for employment law
-- 🤖 Developing **Houtmann-AI**, a private, self-hosted, self-learning assistant
 - 📜 MCSE, MCSA, MCP, Microsoft Specialist (Exchange 2016), NetApp-certified, currently working toward Azure Solutions Architect Expert (AZ-305)
 
-### 🚀 Ventures
+## 🧪 Personal projects (paused)
 
-| Brand | Focus | Link |
-|---|---|---|
-| **Houtmann-IT** | Infrastructure: M365, Azure, Intune, security & migrations | [houtmann-it.nl](https://houtmann-it.nl) |
-| **Houtmann-AI** | A private, self-hosted, self-learning AI assistant | [houtmann-ai.nl](https://houtmann-ai.nl) |
-| **JuriPredict** | AI-driven legal-tech for employment law (NL & DE) | [juripredict.com](https://juripredict.com) |
+| Project | What it is |
+|---|---|
+| **Houtmann-AI** | A private, self-hosted AI assistant (personal project) |
+| **JuriPredict** | A legal-tech web application (prototype) |
 
 ### 🛠️ Stack
 
