@@ -39,14 +39,6 @@ These projects are currently paused.
 
 ### 🧩 Fun
 ⚙️ <a href="https://zoutmax.github.io/FifineControlDeck/">FifineControlDeck</a> a native Linux app for the fifine AmpliGame D6 stream deck 📦
-
-
-### 📫 Get in touch
-
-For partnerships, press, or brand questions [info@houtmann-tech.nl](mailto:info@houtmann-tech.nl)
-
-For IT engagements specifically, see [Houtmann-IT](https://houtmann-it.nl).
-
 ---
 
 <p align="center"><sub>© 2026 Houtmann-Tech sole proprietorship</sub></p>
